@@ -1,1 +1,1 @@
-# Outreaching-Multiagent
+# Outreaching-MultiAgent
